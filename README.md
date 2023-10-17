@@ -1,11 +1,11 @@
-<h1> Portfolio </h1>
-<p> Meu primeiro portfolio desenvolvido em conjunto com os professores (por video) no curso de HTML & CSS da ALURA </p>
-<img loading="lazy" src="https://pasteboard.co/vuz5PxFUskQV.png"/>
-<h2> O que foi feito?</h2>
-<ol>
-        <li>Pagina Inicial</li>
-        <li>Adição de ancoras com logotipos</li>
-        <li>Adição de novas paginas</li>
-        <li>Responsividade</li>
-</ol>
-       
+# Portfolio
+Meu primeiro portfolio desenvolvido em conjunto com os professores (por video) no curso de HTML & CSS da ALURA
+
+![thumbnail](https://pasteboard.co/vuz5PxFUskQV.png)
+
+### O que foi feito?
+
+1.  Pagina Inicial
+2.  Adição de ancoras com logotipos
+3.  Adição de novas paginas
+4.  Responsividade
