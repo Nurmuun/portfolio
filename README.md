@@ -1,7 +1,7 @@
 # Portfolio
 Meu primeiro portfolio desenvolvido em conjunto com os professores (por video) no curso de HTML & CSS da ALURA
 
-![thumbnail](https://imgur.com/a/XKJQTAO)
+![thumbnail](https://pasteboard.co/vuz5PxFUskQV.png)
 
 ### O que foi feito?
 
