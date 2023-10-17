@@ -123,10 +123,8 @@ body {
     background-color: var(--cor-hover);
 }
 
-#picMarcos {
-    width: 488px;
-    height: 550px;
-    flex-shrink: 0;
+.apresentacao__imagem {
+    width: 50%
 }
 
 .rodape {
@@ -138,4 +136,17 @@ body {
     padding: 24px;
     text-align: center;
 
+}
+
+@media (max-width: 1200px) {
+    .cabecalho {
+        justify-content: center;
+    }
+    .apresentacao {
+        flex-direction: column-reverse;
+    }
+    .apresentacao__conteudo {
+        width: auto;
+        
+    }
 }
