@@ -1,6 +1,6 @@
 <h1> Portfolio </h1>
 <p> Meu primeiro portfolio desenvolvido em conjunto com os professores (por video) no curso de HTML & CSS da ALURA </p>
-<img href="https://pasteboard.co/vuz5PxFUskQV.png" alt=thumbnail>
+<img loading="lazy" src="https://pasteboard.co/vuz5PxFUskQV.png"/>
 <h2> O que foi feito?</h2>
 <ol>
         <li>Pagina Inicial</li>
