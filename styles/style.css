@@ -129,11 +129,10 @@ body {
 
 }
 
-/* #picMarcos {
-    width: 488px;
-    height: 550px;
-    flex-shrink: 0;
-} */
+.apresentacao__imagem__stacks {
+    width: 8%;
+    
+}
 
 .rodape {
     font-family: var(--fonte-secundaria);
